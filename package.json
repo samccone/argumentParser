@@ -1,0 +1,16 @@
+{
+  "author": "Sam Saccone <sam@samx.it> (samsaccone.com)",
+  "name": "argumentParser",
+  "description": "a argument parser for node projects",
+  "version": "0.0.0",
+  "homepage": "samsaccone.com",
+  "repository": {
+    "url": "https://github.com/samccone/argumentParser"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}

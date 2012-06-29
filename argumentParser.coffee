@@ -1,6 +1,5 @@
 module.exports = (options) ->
   options.help =
-            alias: ['-h']
             action: printHelp
 
   for arg in process.argv

@@ -4,7 +4,6 @@
   module.exports = function(options) {
     var arg, parsedArg, _i, _len, _ref, _results;
     options.help = {
-      alias: ['-h'],
       action: printHelp
     };
     _ref = process.argv;
